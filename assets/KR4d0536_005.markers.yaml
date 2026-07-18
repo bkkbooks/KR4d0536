@@ -115,6 +115,7 @@ markers:
   - {type: substitution, offset: 272, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17392}}
   - {type: substitution, offset: 273, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 275, content: (, id: KR4d0536_krp_005-bkkpn1}
+  - {type: voice, offset: 275, length: 10, name: note, id: n1}
   - {type: substitution, offset: 279, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: punctuation, offset: 280, content: /, id: KR4d0536_krp_005-bkkpn2}
   - {type: substitution, offset: 282, original: 烟, replacement: 煙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17207}}
@@ -760,6 +761,7 @@ markers:
   - {type: line-break, offset: 2395, content: '', id: KR4d0536_WYG_005-9b01}
   - {type: indent, offset: 2395, content: 　　　, id: KR4d0536_krp_005-bkkind27}
   - {type: punctuation, offset: 2400, content: (, id: KR4d0536_krp_005-bkkpn4}
+  - {type: voice, offset: 2400, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 2406, content: /, id: KR4d0536_krp_005-bkkpn5}
   - {type: punctuation, offset: 2406, content: ), id: KR4d0536_krp_005-bkkpn6}
   - {type: 'kr:newline', offset: 2406, content: '
@@ -887,4 +889,4 @@ markers:
 
       ', id: KR4d0536_krp_005-bkkkrnewl179}
   back: []
-hash: sha256:554a070430638bd77a965ae97ae5eb8497be9a919e634bda9c7f653d80d28fa7
+hash: sha256:a678edca6a11471d23be86ea0fe63c4e7dab67d1eb2ece3eadd922f2d563b253
